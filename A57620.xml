@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last memorial of the Spanish ambassador faithfully translated into English.</title>
+            <author>Ronquillo, Pedro, b. 1635.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57620</idno>
+            <idno type="STC">Wing R1916</idno>
+            <idno type="STC">ESTC R24500</idno>
+            <idno type="EEBO-CITATION">08210486</idno>
+            <idno type="OCLC">ocm 08210486</idno>
+            <idno type="VID">41100</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41100)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1238:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last memorial of the Spanish ambassador faithfully translated into English.</title>
+                  <author>Ronquillo, Pedro, b. 1635.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:41100:1" rendition="simple:additions"/>
+            <head>The Laſt MEMORIAL OF THE <hi>Spaniſh Ambaſſador,</hi> Faithfully Tranſlated into
+Engliſh.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>DOn Pedro Ronquillo,</hi> Ambaſſador of <hi>Spain,</hi> ſaith, That by a Memorial
+which he Preſented to Your Ma<g ref="char:EOLhyphen"/>jeſty the (19/29) of <hi>December,</hi> he did ſet forth the
+Infractions which the <hi>moſt Chriſtian King</hi> hath made ſince the Peace of
+<hi>Nimeguen</hi> from the month of <hi>September,</hi> after the difference was agreed about the
+Title of the Duke of <hi>Burgundy,</hi> which was alledged for a Pretence to ſuſpend the
+Conference at <hi>Courtray,</hi> according to the 15th Article of that Treaty, in order to the
+Adjuſting in an ami<g ref="char:EOLhyphen"/>cable way all the Limits, Pretenſions and Differences of the two Crowns,
+which ſhould reſult from that Treaty; And Your Majeſty was pleaſed by Your Royal Order of
+the (26 <hi>Dec.</hi>/6 <hi>Jan.</hi>) to order Your Envoye Extraordi<g ref="char:EOLhyphen"/>nary at <hi>Paris,</hi> to
+put in Execution what was contained in the ſaid Memorial. By the laſt Poſt, the ſaid
+Ambaſſador received Letters of the (1/11) inſtant, from the Marquis <hi>de la Fuente,</hi>
+who is Ambaſſador at <hi>Paris,</hi> in which he gives him an Account of the Complaints he had
+made to the <hi>Chriſtian King,</hi> about the Exceſſes and Infractions which are committed
+againſt the Inhabitants of <hi>Fuenta Rabia,</hi> and in the <hi>Low Countries,</hi> and
+particularly about a Meſſage which the Governor of <hi>Tournay</hi> ſent to the Prince of
+<hi>Parma,</hi> pretending that not one Palliſado ſhould be laid at <hi>Bovignies,</hi> (which
+inconteſtably hath been a ſeparated State, and comprehended in the Countrey of <hi>Namur.</hi>)
+After many violent conteſtations, the Anſwer of the <hi>moſt Chriſtian King</hi> was,
+<hi>That he did not doubt but that the Catholick King would give Order to his Commiſſioner
+at</hi> Fuente Rabia <hi>to proceed in the Treaty, leaving each Party in the poſſeſſion
+which at preſent they hold,</hi> (as if a vi<g ref="char:EOLhyphen"/>olent Uſurpation, under the ſurety of the good
+faith of the <hi>Conference,</hi> could in one day be con<g ref="char:EOLhyphen"/>cluded to be an actual
+poſſeſſion) <hi>that for what relates to the</hi> Low Countries, <hi>he cannot abſtain
+from taking poſſeſſion of that which he ſuppoſes doth appertain to him, according to
+what he ſhall declare at the Conference of</hi> Courtray.</p>
+            <p>To this violent, as well as undecent An<g ref="char:EOLhyphen"/>ſwer, the Marquis <hi>de la Fuente</hi> with the
+ſtrength of the undoubtful Juſtice and Reaſon which the King my Maſter hath, concluding he
+did not receive the ſame, not knowing how to impart it to his <hi>Catholick Majeſty,</hi> and
+that he beſeeched him to reſolve what was Juſt; to which Reply it was anſwered, <hi>That he
+would conſider it.</hi> And at the ſame time his <hi>moſt Chriſtian Majeſty</hi> hath
+ordered his Forces to enter in the <hi>Spaniſh Low Countries,</hi> to hinder the Fortifying of
+<hi>Bovignies.</hi>
+            </p>
+            <p>This Proceeding doth exceed all Limits, and cannot be reaſonably endured; For the <hi>moſt
+Chriſtian King</hi> will, by Force of Arms, be Ar<g ref="char:EOLhyphen"/>bitrator, and command in the Dominions of the
+<hi>Catholick King,</hi> thereby hindering him from fortifying a place which is his own; when by
+the Article of <hi>Nimeguen</hi> it is allow<g ref="char:EOLhyphen"/>ed to be done by both Parties. And when the
+<hi>French</hi> King himſelf hath made uſe of the ſame Article in order to have the courſe
+of the waters ſtopped, that they may not hinder the fortifying his Towns, as it was more
+particu<g ref="char:EOLhyphen"/>larly done at <hi>Mennin,</hi> cauſing the River <hi>Liſſe</hi> to be lowerd, that
+they might with more facility fortifie that Town, a place which was whol<g ref="char:EOLhyphen"/>ly open, and which the
+<hi>French King</hi> is fortify<g ref="char:EOLhyphen"/>ing and inlarging in Extent much more than it was before: So that
+now, <hi>Sir,</hi> theſe are not Infractions, but a declared War; the Deſigns of the French
+being publick, that they intend to beſiege <hi>Luxemburg,</hi> and that from thence they will go
+to <hi>Namur,</hi> when the Fact of hin<g ref="char:EOLhyphen"/>dering the Fortification of <hi>Bovignies</hi> (which is
+upon the <hi>Moſe</hi> almoſt over againſt <hi>Dinant</hi>) makes it clear and paſt doubt,
+eſpecially the <hi>moſt Chriſtian King</hi> having poſſeſſed himſelf of all the
+Towns that are upon the River <hi>Moſe</hi> from <hi>Charlemont,</hi> and of the moſt part of
+the Territory between that River and the <hi>Sambre,</hi> in ſuch a manner that they have gotten
+almoſt all the County of <hi>Namur,</hi> as well as that of <hi>Luxemburg,</hi> and thereby
+thoſe two Provinces are left without Communication.</p>
+            <p>By theſe Infractions and clear Beginnings of War, the Underwritten Ambaſſador doth apply
+himſelf to Your Majeſty as a Mediator, that you would cauſe what was agreed by the Peace of
+<hi>Nimeguen</hi> to be obſerved; and as an Ally, that you would defend it, and reſiſt the
+Violence of <hi>France,</hi> Your Majeſty being obli<g ref="char:EOLhyphen"/>ged to the one and to the other by the
+Trea<g ref="char:EOLhyphen"/>ties; in which conſideration he cannot omit ſaying, That although the Frontiers of
+<hi>Spain</hi> by <hi>Cantabria</hi> and <hi>Catalogna</hi> are Infeſted, and by the Treaty of
+<hi>Caſſal</hi> between the <hi>French King</hi> and the Duke of <hi>Mantua,</hi> the Dominions
+of <hi>Italy</hi> are in apparent danger, and no leſs the <hi>Indies,</hi> where Count
+<hi>d'Eſtre</hi> is with a Squa<g ref="char:EOLhyphen"/>dron of Ships, all which are the Countries
+<pb facs="tcp:41100:2"/>that do compoſe the greateſt power of the
+<hi>Spaniſh</hi> Monarchy; (notwithſtanding this, his <hi>Catholick Majeſty</hi> has
+poſtpo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed theſe his greateſt Concerns, to
+the defence of that Little which remains to him in the <hi>Low Coun<g ref="char:EOLhyphen"/>tries,</hi> although it be
+leſſened of a great part of Territory, (which the <hi>French</hi> have violently
+poſſeſſed themſelves of, ſince the Peace of <hi>Nimeguen</hi>) which hath been the
+onely cauſe that we have not been able to keep that Coun<g ref="char:EOLhyphen"/>trey in better poſture; for each
+unjuſt Uſur<g ref="char:EOLhyphen"/>pation of the <hi>French,</hi> hath broken the mea<g ref="char:EOLhyphen"/>ſures which were taken, and
+reduced us to ſeek others; and therefore his Majeſty hath already ſent conſiderable
+Supplies to <hi>Flanders,</hi> and ap<g ref="char:EOLhyphen"/>pointed the Prince of <hi>Parma</hi> Governor there<g ref="char:EOLhyphen"/>of, as an
+experienced Soldier, and one who hath been Viceroy of ſeveral Kingdoms, thereby to encourage
+thoſe Subjects with theſe Endeavors, and that they may be Governed by a Grandſon, and of the
+ſame name of <hi>Alexander Farneſe,</hi> whom with ſo much love they reverence.</p>
+            <p>All this, <hi>Sir,</hi> hath been done, in hopes that the Union and Intereſt of
+<hi>England</hi> with <hi>Spain,</hi> will produce mutual Effects of Conveniences to both Crowns;
+for no good <hi>Engliſhman</hi> can doubt, that if there be no oppoſition made to the preſent
+great power of <hi>France,</hi> 'tis impoſ<g ref="char:EOLhyphen"/>ſible but that in few days they ſhould
+poſſeſs themſelves of the <hi>Low Countries,</hi> and that the <hi>States General</hi>
+ſhould ſubject themſelves, by reaſon of the impoſſibility of reſiſting the
+powerful. And afterwards Your Majeſty and <hi>England</hi> ſhall be the firſt in perceiving
+this miſchief, to remedy which, it will be then im<g ref="char:EOLhyphen"/>poſſible; and at preſent nothing is
+capable to ſuppreſs theſe Evils, but the Power of <hi>England,</hi> at this time the onely in
+<hi>Europe</hi> that can re<g ref="char:EOLhyphen"/>ſtrain the Torrent of <hi>France.</hi> The differences which are at
+preſent in <hi>England,</hi> doth occaſion theſe bold Attempts of the <hi>French</hi> King,
+and encourages him in the continuation of his vaſt Deſigns; upon the whole ſo apparent
+already, that there is no clear-ſighted underſtanding, but will apprehend them. All the Princes
+and Powers of <hi>Europe,</hi> as alſo his <hi>moſt Chriſtian Ma<g ref="char:EOLhyphen"/>jeſty,</hi> are in
+expectation of the ſucceſs of this Parliament, and of the Agreement of <hi>England;</hi> the
+firſt to take meaſures in order to ſhake off the <hi>Yoke</hi> which they are like to be made
+ſubject to: And the <hi>moſt Chriſtian King</hi> hath alſo for a time reſtrained his
+Ambition, and at preſent nothing doth encourage him to deliver him<g ref="char:EOLhyphen"/>ſelf up to it, but the
+differences which he ſees breaking out here, giving it out as well within as without this
+Kingdom, That he is aſſured they will not be reconciled; and that in the mean while he may make
+up the Conqueſt of the <hi>Low Countries,</hi> which is the Maſter-Key of the Univerſal
+Monarchy, and the firſt door which he will open with it, ſhall be that of <hi>England,</hi>
+without further trouble than that of maintaining the differences, with great promi<g ref="char:EOLhyphen"/>ſes, and with
+a ſmall charge; and whatſoever he ſhall find moſt for his advantage, will be firſt
+invaded by him.</p>
+            <p>That this Diſunion is the chief Encouragement of the Deſign and Enterpriſes of the
+<hi>moſt Chriſtian King</hi> in the <hi>Low Countries,</hi> is apparent; and there are ſo
+great proofs of this Truth, that it is Blindneſs not to ſee them: And the Ambaſſador will
+onely acquaint Your Majeſty with one late Inſtance which doth manifeſt the ſame, which is,
+That his <hi>moſt Chriſtian Majeſty</hi> ſeeing the <hi>Emperor</hi> is making
+conſiderable Levies, as alſo the Elector of <hi>Saxony,</hi> and other Princes of the Empire;
+that the Electors of <hi>Bavaria,</hi> and <hi>Brandenburgh,</hi> have declared, That they will not
+ſuffer his Proceedings againſt the Empire, and the Princes of the ſame, and that they will
+oppoſe it with all their Power.</p>
+            <p>His <hi>moſt Chriſtian Majeſty,</hi> after ſo many violent Anſwers which he himſelf
+had made, and alſo his Mini<g ref="char:EOLhyphen"/>ſters, to all the Princes of <hi>Germany,</hi> he hath now
+an<g ref="char:EOLhyphen"/>ſwered the Emperor's Envoy Extraordinary, That he doth agree in appointing a Conference in one
+of the Imperial Cities, to decide and explain the Ambiguous Points of the Articles of the Peace of
+<hi>Nimeguen,</hi> concerning the Poſſeſſions taken in <hi>Alſatia;</hi> and that as
+ſoon as the Commiſſioners are met, the Chamber of <hi>Metz</hi> ſhall ceaſe its
+Proceedings, and all manner of Novelty, and that they will hear ſuch a Perſon as ſhall Treat
+for the Duke of <hi>Lorrain.</hi> And although it is evident that this is intended to lay aſleep
+the minds, as well of the Empe<g ref="char:EOLhyphen"/>ror, as of the other Princes concerned, and that they may cool the
+vigor of their Preparations which they are ma<g ref="char:EOLhyphen"/>king for their Defence, 'tis alſo known that this
+is in or<g ref="char:EOLhyphen"/>der to work with more ſafety againſt the <hi>Low Coun<g ref="char:EOLhyphen"/>tries;</hi> for at the ſame
+time that he offers to ſuſpend the Attempts in the Empire, he continues in poſſeſſing
+him<g ref="char:EOLhyphen"/>ſelf of all the <hi>Spaniſh</hi> open Countrey, executing Acts of open VVar, by hindering
+the Fortification of <hi>Bovig<g ref="char:EOLhyphen"/>nies,</hi> which is the ſame thing as blocking up of
+<hi>Luxem<g ref="char:EOLhyphen"/>burgh</hi> and <hi>Namur;</hi> ſo that it's made evident, that if he ſaw the
+differences of <hi>England</hi> appeaſed, and united to its own Defence, for ſuch ought to be
+reputed that of the <hi>Spaniſh</hi> Monarchy, and in particular that of the <hi>Low
+Countries,</hi> 'tis infallible and certain, that he would moderate his Deſigns, and limit his
+Reſolutions, as it appears he doth in <hi>Germany,</hi> ſeeing that the Emperor, and all the
+Body of the Empire, do unite for its defence.</p>
+            <p>The Ambaſſador doth very well know, that the Agi<g ref="char:EOLhyphen"/>tation of this Kingdom is great, and that
+the Pretenſions ſeem to be diſtant; but he is ſorry, and it makes his heart bleed to ſee,
+that there is no way opened to an Union; and as there is nothing impoſſible in humane things,
+his pain doth increaſe, ſeeing there is no ſteps made to quench theſe Heats: If
+<hi>England</hi> were not ſo much threatned with Ruine by the Exaltation of the <hi>French,</hi>
+as the <hi>Low Countries</hi> are, the Pretenſions and Rights might be followed to the
+uttermoſt Point; but running the ſame Fortune with the Monarchy of <hi>Spain,</hi> becauſe
+<hi>Flanders</hi> is a Battery to <hi>England</hi> and <hi>Spain,</hi> and the <hi>Indies</hi> the
+Treaſure of its Riches, and the chief ſtrength of its Commerce, beyond all places where this
+Nation doth Trade, and therefore it doth not allow that their Intereſt ſhould be conſidered
+as a Foreigner, nor that the Diſtractions in which all are now involved, ſhould be calmed by
+the ſame methods which could be done in a ſecured Tranquillity; ſo that the Ambaſſador
+doth promiſe himſelf, that conſidering theſe Reaſons, and that <hi>France</hi> being at
+this time a Gangrene which doth pene<g ref="char:EOLhyphen"/>trate to the very heart of <hi>England,</hi> all grounds of
+differen<g ref="char:EOLhyphen"/>ces ſhall ceaſe, and that it will not with its own Ruine involve the reſt of
+<hi>Chriſtendom</hi> in the ſame Fate:</p>
+            <p>Therefore the Ambaſſador doth pray Your Majeſty, that as Mediator, or as Ally, You would
+Effectually ap<g ref="char:EOLhyphen"/>ply Your Self to prevent the Loſs of the <hi>Low Coun<g ref="char:EOLhyphen"/>tries,</hi> and
+conſequently of all the reſt, hoping from Your Majeſties great Prudence, that You will make
+choice of the moſt Efficacious Means to that End, and to the Eſtabliſhing the quiet of
+<hi>Europe.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Smith</hi> at the <hi>Elephant</hi> and
+<hi>Caſtle</hi> near the <hi>Royal Exchange</hi> in <hi>Cornhil.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
